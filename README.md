@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL: [https://yusuf-demirci.github.io/Exact_Age_Calculator/](https://yusuf-demirci.github.io/Exact_Age_Calculator/)
+- Live Site URL:
 
 
 ### The challenge
